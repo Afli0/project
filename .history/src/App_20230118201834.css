@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+
+.leaflet-container {
+  height: 800px;
+  width: 100%;
+}
